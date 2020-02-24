@@ -3,7 +3,7 @@ This a fantastic website which showcases delani studio which is an online studio
 # description
 This is a simple website showcases an online studio which is called Delani 
 # author
-Vincent King'ori Mwangi
+Vincent King'ori Mwangi.
 
 # contact information
 You can email me @kingorimwangi01@gmail.com
