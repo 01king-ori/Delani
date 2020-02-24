@@ -12,4 +12,4 @@ You can email me @kingorimwangi01@gmail.com
   I have used html,css and javascript and also jquery on this project
 
 ## license and copyright
-I have used MIT to licence my work
+I have used MIT to licence my work.
