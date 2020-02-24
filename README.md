@@ -1,7 +1,7 @@
 # Delani
 This a fantastic website which showcases delani studio which is an online studio of where one can know more about the online studio.
 # description
-This is a simple website showcases an online studio which is called Delani  studios
+This is a simple website showcases an online studio which is called Delani  studios.you can check it out at https://01king-ori.github.io/Delani/
 # author
 Vincent King'ori Mwangi.
 
